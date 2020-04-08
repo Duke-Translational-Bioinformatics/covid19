@@ -1,0 +1,4 @@
+﻿Topic Area,Scope,Data Type,Summary,Data,Team
+Measuring Social Distancing,NC,Phone Survey,Multi-wave household survey on social distancing practices,https://github.com/MIDS-at-Duke/duke-social-distancing-survey,"Nick Eubank (@nickeubank), Dana Pascal, Don Taylor, Erich Huang"
+Measuring Social Distancing,NC,SafeGraph,Analyzing social distancing in NC with behavioral data,,Chris Bail
+Recording Govt Policies,NC,Collecting by hand,Collecting data on when different policies were enacted in NC by county,,@mm665

@@ -5,6 +5,8 @@ For now, it's a public repo, but if there are things that should be private we c
 
 ## Current Efforts
 
+Efforts by Duke-affiliated researchers are being compiled in the `current_duke_projects.csv` file -- please add your own project, or reach out to relevant parties if you want to share data!
+
 - **Launching phone survey with Clarity Consulting Group:** We're about to launch a survey primarily focused on objective measures of social distancing in North Carolina. Contact: @nickeubank
 - **Looking for location-tracking firm willing to share:** Location tracking firms likely have the very best data for measuring social distancing acccurately and at scale. See Issue #4 . Contact: @nickeubank
 - **Writing NSF Grant for phone surveys to allow for greater frequency / sample sizes:** Currently I think AC is focused on this?
